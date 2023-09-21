@@ -1,7 +1,7 @@
 {
-  "name": "memegen",
+  "name": "sortvisual",
   "version": "1.0.0",
-  "description": "app for generation meme",
+  "description": "app for visuality sort",
   "repository": {
     "url": "https://github.com/Ten666u/sortVisual.git"
   },
